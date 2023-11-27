@@ -1,0 +1,14 @@
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.AssemblyInfoInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.AssemblyInfo.cs
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.csproj.CoreCompileInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\bin\Debug\net6.0\LecturaXML.exe
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\bin\Debug\net6.0\LecturaXML.deps.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\bin\Debug\net6.0\LecturaXML.runtimeconfig.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\bin\Debug\net6.0\LecturaXML.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\bin\Debug\net6.0\LecturaXML.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\refint\LecturaXML.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\LecturaXML.genruntimeconfig.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\LecturaXML\obj\Debug\net6.0\ref\LecturaXML.dll

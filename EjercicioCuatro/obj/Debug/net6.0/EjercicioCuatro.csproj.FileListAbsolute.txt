@@ -1,0 +1,14 @@
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\bin\Debug\net6.0\EjercicioCuatro.exe
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\bin\Debug\net6.0\EjercicioCuatro.deps.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\bin\Debug\net6.0\EjercicioCuatro.runtimeconfig.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\bin\Debug\net6.0\EjercicioCuatro.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\bin\Debug\net6.0\EjercicioCuatro.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.AssemblyInfoInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.AssemblyInfo.cs
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.csproj.CoreCompileInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\refint\EjercicioCuatro.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\EjercicioCuatro.genruntimeconfig.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioCuatro\obj\Debug\net6.0\ref\EjercicioCuatro.dll

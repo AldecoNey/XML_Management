@@ -1,0 +1,14 @@
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\bin\Debug\net6.0\EjercicioDos.exe
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\bin\Debug\net6.0\EjercicioDos.deps.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\bin\Debug\net6.0\EjercicioDos.runtimeconfig.json
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\bin\Debug\net6.0\EjercicioDos.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\bin\Debug\net6.0\EjercicioDos.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.AssemblyInfoInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.AssemblyInfo.cs
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.csproj.CoreCompileInputs.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\refint\EjercicioDos.dll
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.pdb
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\EjercicioDos.genruntimeconfig.cache
+C:\Users\neyda\OneDrive\Escritorio\UTN\Lab\TpXML_Aldeco\EjercicioDos\obj\Debug\net6.0\ref\EjercicioDos.dll
